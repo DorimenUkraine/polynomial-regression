@@ -7,3 +7,5 @@ This script generates a polynomial function : <img src="https://latex.codecogs.c
 The purpose is to find the multiplying factors that best fit the generated points.
 
 Here the *Mean Square Error* is used and we try to minimize it with the gradient descent that figures out the gradients of our coefficients. To best fit the points, we need to use different learning rates according to the polynomial degree.
+
+![Result](https://raw.githubusercontent.com/cheillanju/polynomial-regression/master/result.png)
